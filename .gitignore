@@ -119,5 +119,6 @@ Thumbs.db
 docs/README.md
 src/
 src
-*.md
 *.sh
+/.idea
+MongoDB-Manual-zh/README.md
